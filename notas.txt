@@ -1,0 +1,3 @@
+Git guarda el historial del proyecto.
+Cada commit es una foto del proyecto.
+Las ramas permiten trabajar sin dañar main.
