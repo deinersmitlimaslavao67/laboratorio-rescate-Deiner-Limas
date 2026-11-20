@@ -19,4 +19,8 @@ Restablece los cambios que se han hecho antes de hacer un commit descartando los
 ¿Funcionaría si nunca hubieras hecho commit de ese archivo?
 No, si no hubiera un historial de lo que se habia guardado, git no tiene de donde restablecer cambios
 
+¿qué diferencia hay entre git restore y git restore --staged?
+git restore: descarta los cambios que se hicieron y lo devuelve a como estaba en el último commit
+git restore --staged: saca el archivo del área de preparación, deshaciendo un git add.
+
 
