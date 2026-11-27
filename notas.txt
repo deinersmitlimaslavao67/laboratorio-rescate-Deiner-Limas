@@ -2,3 +2,4 @@ Git guarda el historial del proyecto.
 Cada commit es una foto del equipo.
 Las ramas permiten trabajar sin dañar main.
 Los comandos git son clave
+Git maneja versiones para un desarrollo limpio
